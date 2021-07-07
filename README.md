@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+```
+
+* 😄 1997, Summer, Senior Software Engineer
+* Skills: Java/Bash/Python/Javascript, 
+* Interests: CS, Design/Coding/Writing
+```
 
 <!--
 **Xxpain/Xxpain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
