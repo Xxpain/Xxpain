@@ -18,4 +18,13 @@
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Xxpain)]()
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Xxpain&hide=ipynb,html&layout=compact)
  <!-- waka-box start -->
- <!-- waka-box end -->
+#### <a href="https://gist.github.com/eb4ecc800e460a494f8146b3d1bb974a" target="_blank">📊 Weekly development breakdown</a>
+```text
+Java            🕓 20h9m ███████████████▉░░░░░░░ 69.3%
+Properties      🕓 6h8m  ████▊░░░░░░░░░░░░░░░░░░ 21.1%
+XML             🕓 2h10m █▋░░░░░░░░░░░░░░░░░░░░░  7.5%
+YAML            🕓 21m   ▎░░░░░░░░░░░░░░░░░░░░░░  1.2%
+Protocol Buffer 🕓 10m   ▏░░░░░░░░░░░░░░░░░░░░░░  0.6%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
