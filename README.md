@@ -1,4 +1,6 @@
 ### Hi there 👋 
+[![](https://count.getloli.com/get/@Xxpain.github.readme)](https://count.getloli.com/)
+
 ```
 
 * 😄 1997, Summer, Senior Software Engineer
