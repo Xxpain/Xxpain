@@ -8,7 +8,7 @@
 
 * 😄 1997, Summer, Senior Software Engineer
 * Skills: Java/Bash/Python/Javascript, 
-* Interests: CS, Design/Coding/Writing
+* Interests: CS, Design/Coding/Writing/cat
 ```
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Xxpain)]()
