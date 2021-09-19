@@ -12,7 +12,7 @@
 ```
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Xxpain)]()
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Xxpain&hide=ipynb,html&layout=compact)
+<!-- ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Xxpain&hide=ipynb,html&layout=compact) -->
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/eb4ecc800e460a494f8146b3d1bb974a" target="_blank">📊 Weekly development breakdown</a>
 ```text
