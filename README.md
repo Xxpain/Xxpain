@@ -6,7 +6,7 @@
 
 ```
 
-* 😄 1997, Summer, Senior Software Engineer
+* 😄 Senior Software Engineer
 * Skills: Java/Bash/Python/Javascript, 
 * Interests: CS, Design/Coding/Writing/cat
 ```
