@@ -5,7 +5,6 @@
 </p>
 
 ```
-
 * 😄 Software Engineer
 * Skills: Java/Bash/Python/Javascript, 
 * Interests: CS, Design/Coding/Writing/cat
