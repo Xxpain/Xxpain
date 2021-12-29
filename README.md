@@ -8,6 +8,7 @@
 * 😄 Software Engineer
 * Skills: Java/Bash/Python/Javascript, 
 * Interests: CS, Design/Coding/Writing/cat
+* Welcome to 2022
 ```
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Xxpain)]()
